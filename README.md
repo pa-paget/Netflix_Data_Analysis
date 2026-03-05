@@ -1,6 +1,11 @@
 # Netflix Data Analysis – Dashboard
 ### Projet Data Analysis – Data Visualisation & Business Intelligence
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Role](https://img.shields.io/badge/Role-Data%20Analyst-blue)
+![Tools](https://img.shields.io/badge/Tools-Power%20BI%20%7C%20Power%20Query-yellow)
+![Category](https://img.shields.io/badge/Category-Data%20Visualization-red)
+
 ---
 
 ## Sommaire
